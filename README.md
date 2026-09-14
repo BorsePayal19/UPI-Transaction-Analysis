@@ -168,7 +168,7 @@ Both team members contributed to the overall project development.
 
 ## Project Files
 
-- [SQL Analysis](./SQL_Queries.sql)
+- [[SQL Analysis](./SQL_Queries.sql)](https://github.com/BorsePayal19/UPI-Transaction-Analysis/blob/main/SQl_Queries.sql)
 - [Excel Dataset](./Transaction_Cleaned.xlsx)
 - [Power BI Dashboard](./UPI%20TRANSACTION%20PROJECT1.pbix)
 
