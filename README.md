@@ -172,9 +172,9 @@ Both team members contributed to the overall project development.
 
 ## Project Files
 
-- [SQL Analysis](./SQL_Queries.sql)
-- [Excel Dataset](./Transaction_Cleaned.xlsx)
-- [Power BI Dashboard](./UPI%20TRANSACTION%20PROJECT1.pbix)
+- [SQL Analysis](./SQL/UPI_Transaction_Analysis.sql)
+- [Excel Dataset](./Data/Transaction_Cleaned.xlsx)
+- [Power BI Dashboard](./PowerBI/UPI_Transaction_Dashboard.pbix)
 
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow,
