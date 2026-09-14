@@ -33,18 +33,14 @@ generate meaningful insights related to:
 ## Project Structure
 UPI-Transaction-Analysis/
 
+Repository
+│
 ├── README.md
-
-├── SQL/
-│   └── UPI_Transaction_Analysis.sql
-
-├── Data/
-│   └── Transaction_Cleaned.xlsx
-
-└── PowerBI/
-    ├── UPI_Transaction_Dashboard.pbix
-    ├── Overview.png
-    └── Summary.png
+├── SQL_Queries.sql
+├── Transaction_Cleaned.xlsx
+├── UPI TRANSACTION PROJECT1.pbix
+├── UPI Transaction Analysis.png
+└── UPI Transaction Overview.png
 ---
 
 ## Dataset
