@@ -121,17 +121,11 @@ The analysis page contains:
 
 ### Page 1 – UPI Transaction Overview
 
-![UPI Transaction Overview](./UPI-Transaction-Overview.png)
+![UPI Transaction Overview](./UPI%20Transaction%20Overview.png)
 
 ### Page 2 – UPI Transaction Analysis
 
-![UPI Transaction Analysis](./UPI-Transaction-Analysis.png)
-
-## Project Files
-
-- [SQL Analysis](./SQL_Queries.sql)
-- [Excel Dataset](./Transaction_Cleaned.xlsx)
-- [Power BI Dashboard](./UPI-Transaction-Project.pbix)
+![UPI Transaction Analysis](./UPI%20Transaction%20Analysis.png)
 
 ---
 
